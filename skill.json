@@ -1,0 +1,12 @@
+{
+  "name": "genpark-autonomous-rfm-segmentation-engine-skill",
+  "version": "1.0.0",
+  "description": "Customer lifecycle analytics engine computing RFM quintile scores and automated cohort interventions",
+  "author": "GenPark AI Engineering",
+  "license": "MIT",
+  "keywords": ["rfm-segmentation", "customer-analytics", "lifecycle-cohorts", "quintile-scoring", "crm-agent", "agent-skills"],
+  "mcp": {
+    "supported": true,
+    "entrypoint": "mcp_server.py"
+  }
+}
